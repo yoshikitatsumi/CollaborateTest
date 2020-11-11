@@ -6,7 +6,7 @@ namespace CollaborateTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("This is Yoshi.");
+            Console.WriteLine("This is Yoshi2!);
         }
     }
 }
